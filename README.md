@@ -1,3 +1,5 @@
+# slurm spank plugin for SingularityCE
+- https://git.gsi.de/SDE/slurm-singularity-exec
 # SingularityCE
 
 [![CircleCI](https://circleci.com/gh/sylabs/singularity/tree/main.svg?style=svg)](https://circleci.com/gh/sylabs/singularity/tree/main)
